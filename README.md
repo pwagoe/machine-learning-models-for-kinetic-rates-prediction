@@ -10,6 +10,6 @@ NN (Neural Network models):
 
 - NN1 for the ligand feature variatiolns
 - NN2 for an automated protein feature variation across all available Propy3 descriptors
-- Hyperparameter tuning
+- Hyperparameter tuning, based on the best R^2 on validation attained from NN1 and NN2
 
 GNN (Graph Neural Network model)
