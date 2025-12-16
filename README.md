@@ -1,5 +1,3 @@
-# machine-learning-models-for-kinetic-rates-prediction
-
 # Master Thesis Project: Machine learning models to predict kinetic rates of kinases 
 
 All self-written code with exceptions: "feature_calc" and "dataset_operations", which were provided by Group Member Iris Guo
