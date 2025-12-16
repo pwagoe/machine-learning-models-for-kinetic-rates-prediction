@@ -1,8 +1,9 @@
 # machine-learning-models-for-kinetic-rates-prediction
-Master Thesis Project: Prediction of k_off values
-
+___
+# Master Thesis Project: Machine learning models to predict kinetic rates of kinases 
+___
 All self-written code with exceptions: "feature_calc" and "dataset_operations", which were provided by Group Member Iris Guo
-
+___
 
 Models folder contains: 
 
