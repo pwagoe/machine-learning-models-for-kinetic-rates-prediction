@@ -4,17 +4,17 @@
 
 All self-written code with exceptions: "feature_calc" and "dataset_operations", which were provided by Group Member Iris Guo
 
-#Requirements:
+# Requirements:
 - Python 3.12.7
 - torch installed
 - rdkit package 2025.9.1
 - mordredcommunity 2.0.6
 - propy3 1.1.1
 
-#Build the Database: 
+# Build the Database: 
 - run preprocessing/Feature_Generation.ipynb
 
-#Train and Test Models
+# Train and Test Models
 
 - run jupyter notebookes in the model folder
 
