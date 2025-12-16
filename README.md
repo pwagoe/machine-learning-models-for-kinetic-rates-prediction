@@ -3,9 +3,20 @@
 # Master Thesis Project: Machine learning models to predict kinetic rates of kinases 
 
 All self-written code with exceptions: "feature_calc" and "dataset_operations", which were provided by Group Member Iris Guo
-___
 
-Models folder contains: 
+#Requirements:
+- Python 3.12.7
+- torch installed
+- rdkit package 2025.9.1
+- mordredcommunity 2.0.6
+- propy3 1.1.1
+
+#Build the Database: 
+- run preprocessing/Feature_Generation.ipynb
+
+#Train and Test Models
+
+- run jupyter notebookes in the model folder
 
 NN (Neural Network models):
 
